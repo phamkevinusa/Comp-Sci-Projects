@@ -1,6 +1,6 @@
 #_Project Portfolio_
 
-#### _Hello! Please use this README to view the projects and repositories that I am most proud of._
+#### _Hello! Please use this README to view some projects from my high school and early undergraduate education._
 
 ## Contact Details
 
